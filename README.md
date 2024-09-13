@@ -1,8 +1,1 @@
-- 👋 Hi, I am Mohamed Abdelhameid Mohamed 
-- 👀 I’m interested in Data science , ML , DL and computer vision
-- 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on Data science
-- 📫 How to reach me as the following  ...
-- phone [+201020063755]
-- email [ma5340@fayoum.edu.eg]
-- linked in [https://www.linkedin.com/in/mohamed-abdelhameid-mohamed-904777245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
+
